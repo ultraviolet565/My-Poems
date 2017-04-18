@@ -2,15 +2,11 @@ h1 {font-size: 250%;
 }
 
 p {
-    font-family: "Times New Roman", Georgia, Serif;
+    font-family: "Times New Roman"
 }
 
-p {
-    font-size: 150%;
-}
-
-p.thick {
-    font-weight: bold;
-}
+<p style="
+    color: #673AB7;
+">...</p> == $0
 
     
