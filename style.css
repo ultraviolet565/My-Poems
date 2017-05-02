@@ -2,7 +2,8 @@ h1{color:Blue; text-align:center;}
 h3{color:aqua; text-align:center;}
 p{color:blueviolet; text-align:center;}
 
-.#nav-menu{
+
+#nav-menu{
    width:120px;
    height:80px;
    background-color:#1d2129;
