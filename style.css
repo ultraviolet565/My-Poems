@@ -4,8 +4,8 @@ p{color:blueviolet; text-align:center;}
 
 
 #nav-menu{
-   width:120px;
-   height:80px;
+   width:9em;
+   line-height: 2em;
    background-color:#1d2129;
 }
 
