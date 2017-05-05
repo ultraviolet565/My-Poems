@@ -9,9 +9,13 @@ p{color:blueviolet; text-align:center;}
    background-color:#1d2129;
 }
 
-.tileMe li {
-    display: inline;
-    float: left;
+.side-by-side {
+  width: 100%;
+  border: 1px solid black;
+
+}
+.side-by-side li {
+  display: inline;
 }
 
 
