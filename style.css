@@ -3,7 +3,7 @@ h3{color:aqua; text-align:center;}
 p{color:blueviolet; text-align:center;}
 
 
-#nav-menu{
+.menuitem{
    width:9em;
    line-height: 2em;
    background-color:#1d2129;
